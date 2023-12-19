@@ -17,23 +17,29 @@ class GoodCppCodeBlock {
 
 <details>
 <summary>Code block in details</summary>
+
 ```
-code block
+  code block
 ```
+
 </details>
 
 <details>
 <summary>C++ Code block in details</summary>
+
 ```cpp
-class CppCodeBlock {
-};
+  class CppCodeBlock {
+  };
 ```
+
 </details>
 
 <details>
 <summary>Good C++ Code block in details</summary>
+
 ```cpp
-class GoodCppCodeBlock {
-};
+  class GoodCppCodeBlock {
+  };
 ```
+
 </details>
