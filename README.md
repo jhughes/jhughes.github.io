@@ -37,6 +37,7 @@ class GoodCppCodeBlock {
 <details>
 <summary>Good C++ Code block in details</summary>
 
+{: .good}
 ```cpp
   class GoodCppCodeBlock {
   };
