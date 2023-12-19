@@ -15,8 +15,7 @@ class GoodCppCodeBlock {
 };
 ```
 
-<details>
-<summary>Code block in details</summary>
+<details><summary>Code block in details</summary>
 
 ```
   code block
@@ -24,8 +23,7 @@ class GoodCppCodeBlock {
 
 </details>
 
-<details>
-<summary>C++ Code block in details</summary>
+<details><summary>C++ Code block in details</summary>
 
 ```cpp
   class CppCodeBlock {
@@ -34,8 +32,7 @@ class GoodCppCodeBlock {
 
 </details>
 
-<details>
-<summary>Good C++ Code block in details</summary>
+<details><summary>Good C++ Code block in details</summary>
 
 {: .good}
 ```cpp
