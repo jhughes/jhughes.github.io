@@ -16,6 +16,7 @@ class CppCodeBlock {
 ```
 
 Text before code block:
+
 {: .good}
 ```cpp
 class GoodCppCodeBlock {
@@ -44,6 +45,7 @@ class CppCodeBlock {
 <details><summary markdown="span">Good C++ Code block in details</summary>
 
 Text before code block:
+
 {: .good}
 ```cpp
 class GoodCppCodeBlock {
