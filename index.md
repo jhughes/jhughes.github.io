@@ -19,7 +19,7 @@ class GoodCppCodeBlock {
 };
 ```
 
-<details><summary>Code block in details</summary>
+<details><summary markdown="span">Code block in details</summary>
 
 ```
 code block
@@ -28,7 +28,7 @@ code block
 </details>
 
 {::options parse_block_html="true" /}
-<details><summary>C++ Code block in details</summary>
+<details><summary markdown="span">C++ Code block in details</summary>
 
 ```cpp
 class CppCodeBlock {
@@ -38,7 +38,7 @@ class CppCodeBlock {
 </details>
 {::options parse_block_html="false" /}
 
-<details><summary>Good C++ Code block in details</summary>
+<details><summary markdown="span">Good C++ Code block in details</summary>
 
 {: .good}
 ```cpp
