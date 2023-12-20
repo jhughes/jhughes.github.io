@@ -22,7 +22,7 @@ class GoodCppCodeBlock {
 <details><summary>Code block in details</summary>
 
 ```
-  code block
+code block
 ```
 
 </details>
@@ -30,8 +30,8 @@ class GoodCppCodeBlock {
 <details><summary>C++ Code block in details</summary>
 
 ```cpp
-  class CppCodeBlock {
-  };
+class CppCodeBlock {
+};
 ```
 
 </details>
@@ -40,8 +40,8 @@ class GoodCppCodeBlock {
 
 {: .good}
 ```cpp
-  class GoodCppCodeBlock {
-  };
+class GoodCppCodeBlock {
+};
 ```
 
 </details>
