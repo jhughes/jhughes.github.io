@@ -27,6 +27,7 @@ code block
 
 </details>
 
+{::options parse_block_html="true" /}
 <details><summary>C++ Code block in details</summary>
 
 ```cpp
@@ -35,6 +36,7 @@ class CppCodeBlock {
 ```
 
 </details>
+{::options parse_block_html="false" /}
 
 <details><summary>Good C++ Code block in details</summary>
 
