@@ -4,15 +4,18 @@
 *   [README html](README.html)
 *   [README md](README.md)
 
+Text before code block:
 ```
 code block
 ```
 
+Text before code block:
 ```cpp
 class CppCodeBlock {
 };
 ```
 
+Text before code block:
 {: .good}
 ```cpp
 class GoodCppCodeBlock {
@@ -21,6 +24,7 @@ class GoodCppCodeBlock {
 
 <details><summary markdown="span">Code block in details</summary>
 
+Text before code block:
 ```
 code block
 ```
@@ -29,6 +33,7 @@ code block
 
 <details><summary markdown="span">C++ Code block in details</summary>
 
+Text before code block:
 ```cpp
 class CppCodeBlock {
 };
@@ -38,6 +43,7 @@ class CppCodeBlock {
 
 <details><summary markdown="span">Good C++ Code block in details</summary>
 
+Text before code block:
 {: .good}
 ```cpp
 class GoodCppCodeBlock {
