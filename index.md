@@ -4,6 +4,57 @@
 *   [README html](README.html)
 *   [README md](README.md)
 
+## Tabs
+{% tabs first %}
+
+{% tab first cpp %}
+```cpp
+class CppCodeBlock {
+};
+```
+{% endtab %}
+
+{% tab first java %}
+```java
+class JavaCodeBlock {
+}
+```
+{% endtab %}
+
+{% tab first python %}
+```python
+class PyCodeBlock:
+```
+{% endtab %}
+
+{% endtabs %}
+
+{% tabs second %}
+
+{% tab second cpp %}
+```cpp
+class CppCodeBlock {
+};
+```
+{% endtab %}
+
+{% tab second java %}
+```java
+class JavaCodeBlock {
+}
+```
+{% endtab %}
+
+{% tab second python %}
+```python
+class PyCodeBlock:
+```
+{% endtab %}
+
+{% endtabs %}
+
+## Dropdowns
+
 Text before code block:
 ```
 code block
