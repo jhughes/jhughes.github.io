@@ -3,3 +3,5 @@ repository: jhughes/jhughes.github.io
 markdown: kramdown
 kramdown:
   parse_block_html: true
+plugins:
+  - jekyll-tabs
